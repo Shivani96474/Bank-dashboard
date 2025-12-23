@@ -22,5 +22,5 @@ Features:
 * User-friendly, interactive financial insights for decision-making
 
 Screenshoot:
-![Alt text]()
+![Alt text](https://github.com/Shivani96474/Bank-dashboard/blob/main/Bank%20pg-1.png)
 ![Alt text]()
