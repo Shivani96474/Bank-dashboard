@@ -23,4 +23,4 @@ Features:
 
 Screenshoot:
 ![Alt text](https://github.com/Shivani96474/Bank-dashboard/blob/main/Bank%20pg-1.png)
-![Alt text]()
+![Alt text](https://github.com/Shivani96474/Bank-dashboard/blob/main/Bank%20pg-2.png)
